@@ -7,3 +7,18 @@
 *{
     background-color: blue;
 }
+/* product Box styling */
+.product-box {
+    backround-color: white;
+    width:300px;
+    margin: 0 auto;
+    padding: 15px;
+    bordor:2px
+
+}
+.product-box img {
+    width: 100%;
+    height: auto;
+    bordor-radius: 5px;
+
+}
