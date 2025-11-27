@@ -3,5 +3,8 @@ h1{
     text-align: center;
 }
 .container{
-    
+
+}
+.items {
+    background-color: bisque;
 }
